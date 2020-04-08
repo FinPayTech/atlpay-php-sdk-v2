@@ -7,6 +7,7 @@
    errors
    tokens
    charges
+   refunds
    
 Introduction
 ============
